@@ -6,5 +6,5 @@
 
 # file.write("My name is Alex")
 
-file = open("file.txt", 'r')
+file = open("file.txt", 'r') 
 print(file.read())

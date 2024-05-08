@@ -12,7 +12,7 @@ seventh_set = second_set - first_set
 eighth_set = first_set & second_set
 ninth_set = second_set ^ first_set
 
-print(f'first_set = {first_set}')
+print(f'first_set = {first_set}') 
 print(f'second_set = {second_set}')
 print(f'third_set = {third_set}')
 print(f'fourth_set = {fourth_set}')
