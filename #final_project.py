@@ -36,6 +36,6 @@ x   x
  x x
 x   x
 x   x
-
+ 
 import regex = re.compile('[^a-zA-Z]')
 list[i] = regex.sub(",<Your string>")
