@@ -31,9 +31,9 @@
 #then print an
 x   x
 x   x
- x x
+ x x 
   x
- x x
+ x x 
 x   x
 x   x
  
