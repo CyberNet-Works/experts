@@ -29,12 +29,12 @@
 #count rows
 #print the word in the count of rows
 #then print an
+x   x 
 x   x
-x   x
- x x 
+ x x    
   x
  x x 
-x   x
+x   x 
 x   x
  
 import regex = re.compile('[^a-zA-Z]')
